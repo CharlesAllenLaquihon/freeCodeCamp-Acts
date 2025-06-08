@@ -1,0 +1,59 @@
+** start of index.html **
+
+<!DOCTYPE html>
+
+<html lang="en">
+  <head>
+    <title>Sinigang</title>
+    <meta charset="UTF-8">
+  </head>
+
+  <body>
+    <h1>Sinigang</h1> 
+    <p>a classic Filipino soup known for its sour and savory flavor, often made with tamarind as the souring agent. It's a popular comfort food, usually served with rice. Sinigang can be made with various meats like pork, beef, fish, or chicken, and a mix of vegetables like string beans, okra, and bok choy, among others. </p>
+
+    <h2>Ingredients</h2>
+    <ul>
+      <li>2 lbs (1 kg) pork belly (liempo) or ribs, cut into chunks</li>
+      <li>1 medium onion, quartered
+
+</li>
+      <li>2 medium tomatoes, quartered
+
+</li>
+      <li>1 pack sinigang mix (tamarind base, about 40g) or 1 cup fresh tamarind pulp</li>
+      <li>1 radish (labanos), sliced thinly</li>
+      <li>1 eggplant (talong), sliced</li>
+      <li>1 cup string beans (sitaw), cut into 2-inch lengths</li>
+      <li>1 bunch water spinach (kangkong) or substitute with spinach</li>
+      <li>1–2 long green chili peppers (siling haba)</li>
+      <li>1 tablespoon fish sauce (patis)</li>
+      <li>Salt and pepper, to taste</li>
+      <li>6–8 cups water</li>
+    </ul>
+
+    <h2>Instructions</h2>
+    <ol>
+      <li>Sauté Aromatics</li>
+      <li>Boil the Pork
+
+</li>
+      <li>Add Vegetables
+
+</li>
+      <li>Sour the Soup</li>
+      <li>Season
+
+</li>
+      <li>Serve
+
+</li>
+    </ol>
+
+    <img src="https://whisperofyum.com/wp-content/uploads/2023/03/sinigang-recipe.jpg" alt="Photo of Sinigang">
+  </body>
+
+</html>
+
+** end of index.html **
+
