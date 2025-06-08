@@ -1,0 +1,46 @@
+** start of index.html **
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <title>Video Compilation Page</title>
+</head>
+
+<body>
+    <main>
+        <h1>Tokyo Revengers</h1>
+        <p>Tokyo Revengers is a Japanese anime and manga series about a young man named Takemichi who travels back in time to save his ex-girlfriend and stop a violent gang from ruining lives. He relives his youth to change the future by altering key events in the past.</p>
+
+        <section>
+            <h2>Manga</h2>
+            <p>Tokyo Revengers is a Japanese manga series written and illustrated by Ken Wakui. It was serialized in Weekly Shōnen Magazine from March 1, 2017, to November 16, 2022, and collected in 31 volumes. The story follows Takemichi Hanagaki, a man who discovers he can travel back in time. Determined to save his ex-girlfriend and friends from tragic fates, he returns to his teenage years to infiltrate and reform the Tokyo Manji Gang. The manga blends action, drama, and supernatural elements, and has been praised for its intense storytelling and character development.</p>
+            <iframe src="https://youtu.be/BncyGAFyvM8?si=W94DN56wGwDeN2nC" title="Tokyo Revengers Manga" height="200" width="400"></iframe>
+        </section>
+
+
+        <section>
+            <h2>Anime</h2>
+            <p>The anime adaptation of Tokyo Revengers premiered in April 2021, produced by Liden Films. It closely follows the manga's storyline, with Takemichi repeatedly traveling to the past to alter events and prevent gang-related tragedies in the future. The anime has received several seasons, covering major arcs of the story, and has gained international popularity for its emotional depth and suspenseful plot twists.</p>
+            <iframe src="https://youtu.be/4pL0DrkmNaQ?si=YJqBVtD3CYp2TX7J" height="200" width="400" title="Tokyo Revengers Manga"></iframe>
+        </section>
+
+
+
+
+
+        <section>
+            <h2>Live-Action</h2>
+            <p>Tokyo Revengers was also adapted into live-action films, directed by Tsutomu Hanabusa. The first movie was released in July 2021, followed by a two-part sequel in 2023. The films condense the core narrative of the manga, focusing on Takemichi’s mission to change the past and stop the Tokyo Manji Gang. The live-action adaptation was well-received in Japan and became a commercial success, praised for its faithful casting and dramatic storytelling.</p>
+            <iframe src="https://youtu.be/TRziJGzIg-U?si=Rp10TQVs6Ri16cSJ" width="400" height="200" title="Tokyo Revengers Live-Action"></iframe>
+
+        </section>
+
+    </main>
+</body>
+
+</html>
+
+** end of index.html **
+
