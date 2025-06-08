@@ -1,0 +1,48 @@
+** start of index.html **
+
+<!DOCTYPE html>
+
+<html lang="en">
+  <head>
+    <title>Binangonan Rizal</title>
+    <meta charset="utf-8" title="Travel Angency Page">
+    <meta name="description" content="A travel business in Binangonan that helps you book flights, stays, tours, and plan trips to local and nearby attractions.">
+  </head>
+
+  <body>
+    <h1>Binangonan Rizal</h1>
+    <p>Visit Binangonan, Rizal! Discover ancient petroglyphs, explore a centuries-old church, and enjoy the view from a high hill. A fun and unforgettable trip!</p>
+
+    <h2>Packages</h2>
+    <p>We offer two customizable packages to suit your experience: Group Travels and Private Tours.</p>
+
+    <ul>
+      <li><a href="https://www.freecodecamp.org/learn" target="_blank">Group Travels</a></li>
+      <li><a href="https://www.freecodecamp.org/learn" target="_blank">Private Tours</a></li>  
+    </ul>
+
+    <h2>Top Itineraries</h2>
+    <figure>
+      <a target="_blank" href="https://www.freecodecamp.org/learn"><img src="https://cdn.freecodecamp.org/curriculum/labs/colosseo.jpg" alt="Angono - Binangonan Petroglyphs Photo"></a>
+      <figcaption>Angono Binangonan Petroglyphs</figcaption>
+    </figure>
+
+    <figure>
+      <a target="_blank" href="https://www.freecodecamp.org/learn"><img src="https://cdn.freecodecamp.org/curriculum/labs/alps.jpg" alt="Santa Ursula Church Photo"></a>
+      <figcaption>Santa Ursula Church</figcaption>
+    </figure>
+
+    <figure>
+      <a target="_blank" href="https://www.freecodecamp.org/learn"><img src="https://cdn.freecodecamp.org/curriculum/labs/sea.jpg" alt="Kalbaryo Hill Photo"></a>
+      <figcaption>Kalbaryo Hill</figcaption>
+    </figure>
+
+  </body>
+
+
+
+
+</html>
+
+** end of index.html **
+
